@@ -1,0 +1,6 @@
+{
+  "name": "agent-ulv-quiz-de-conocimientos-generale-mp8s25aq",
+  "version": "1.0.0",
+  "description": "Proyecto de Ulv [Gen26]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
